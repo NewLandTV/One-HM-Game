@@ -3,6 +3,11 @@
 - [1 Minute Game](https://d-jangkhtv.itch.io/1mg) : Button Click
 - [1 Hour Game](https://d-jangkhtv.itch.io/1hg) : Avoid Squares
 
+[![Development Note p.94](https://img.youtube.com/vi/lrhqFxy4UGM/0.jpg)](https://www.youtube.com/watch?v=lrhqFxy4UGM)
+
+[![Development Note p.172](https://img.youtube.com/vi/oSB7UNF-gZc/0.jpg)](https://www.youtube.com/watch?v=oSB7UNF-gZc)
+
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
