@@ -1,7 +1,7 @@
 # **Introduction(소개)**
 
-1 Minute Game : Button Click
-1 Hour Game : Avoid Squares
+- [1 Minute Game](https://d-jangkhtv.itch.io/1mg) : Button Click
+- [1 Hour Game](https://d-jangkhtv.itch.io/1hg) : Avoid Squares
 
 # **Links(링크)**
 
